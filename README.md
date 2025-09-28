@@ -1,3 +1,10 @@
+외부 api에서 이미지를 랜덤으로 불러와 이미지 Gallery를 구현하는 기능입니다.
+
+코드에 사용된 외부 api는 'cats-dogs-api'를 호출하고 있습니다.
+
+___
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
